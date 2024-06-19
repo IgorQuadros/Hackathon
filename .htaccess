@@ -1,3 +1,0 @@
-RewriteEngine On
-RewriteRule ^agendamento$ agendamento.php [L]
-RewriteRule ^agendar$ agendar.php [L]
